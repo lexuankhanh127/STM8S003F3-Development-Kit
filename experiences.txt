@@ -1,0 +1,1 @@
+Pay attention when selecting components, especially the USB connector, which must match the thickness of the board.
