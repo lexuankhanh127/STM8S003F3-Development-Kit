@@ -4,4 +4,4 @@
 ![Result Screenshot](image/done.jpg)
 
 ## 2. Quartz Oscillator Speed Test and Code Upload
-[Watch on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Watch the video](https://img.youtube.com/vi/pY3Oz2A5OzA/0.jpg)](https://www.youtube.com/watch?v=pY3Oz2A5OzA)
